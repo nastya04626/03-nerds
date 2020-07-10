@@ -1,0 +1,26 @@
+.header {
+ display: flex;
+}
+
+.header-menu ul{
+    display: flex; 
+    list-style: none;
+}
+
+.header-menu ul li{
+    padding-right: 15px
+}
+
+.products{
+    display: flex;
+}
+
+.row{
+    display: flex;
+}
+
+footer{
+    display: flex
+}
+
+
